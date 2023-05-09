@@ -117,23 +117,23 @@ np.mean(predict(res.x, x) == y )
 ## Output:
 Array value of x
 
-![](a1.jpeg)
+![](a1.png)
 
 Array value f y
 
-![](a2.jpeg)
+![](a2.png)
 
 Exam 1 score graph
 
-![](a3.jpeg)
+![](a3.png)
 
 Sigmoid function graph
 
-![](a4.jpeg)
+![](a4.png)
 
 X_train_grad value
 
-![](a5.jpeg)
+![](a5.png)
 
 Y_train_grad value
 
@@ -141,7 +141,7 @@ Y_train_grad value
 
 Print res.x
 
-![](a7.jpeg)
+![](a7.png)
 
 Decision boundary graph for exam score
 
