@@ -137,7 +137,7 @@ X_train_grad value
 
 Y_train_grad value
 
-![](a6.jpeg)
+![](a6.png)
 
 Print res.x
 
@@ -145,15 +145,15 @@ Print res.x
 
 Decision boundary graph for exam score
 
-![](a8.jpeg)
+![](a8.png)
 
 Probability value
 
-![](a9.jpeg)
+![](a9.png)
 
 Prediction value of mean
 
-![](a10.jpeg)
+![](a10.png)
 
 
 
