@@ -9,8 +9,11 @@ To write a program to implement the the Logistic Regression Using Gradient Desce
 
 ## Algorithm
 1. Import the required Packages and read the .csv file
-2. Define a function named costFunction and compute the output
+ 
+2.   Define a function named costFunction and compute the output
+   
 3. Define a function named gradientDescent and iterate the loop
+
 4. Predict the required graphs using scatterplots.
 
 
