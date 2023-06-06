@@ -1,4 +1,4 @@
-# EX:5 Implementation-of-Logistic-Regression-Using-Gradient-Descent
+# EXP:5 Implementation-of-Logistic-Regression-Using-Gradient-Descent
 
 Date : 
 
